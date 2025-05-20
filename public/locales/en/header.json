@@ -1,0 +1,11 @@
+{
+  "header_navigation": {
+    "home": "home",
+    "about": "about",
+    "services": "services",
+    "menu": "menu",
+    "feedback": "feedback",
+    "chefs": "chefs",
+    "contact": "contact"
+  }
+}

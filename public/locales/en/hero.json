@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "banners": {
+      "banner_1": {
+        "title": "welcome to everlean restaurant",
+        "description": "experience exceptional dining at everlean. our restaurant offers a culinary journey like no other. from our thoughtfully crafted menu to our warm and inviting atmosphere, every detail is designed to elevate your dining experience.",
+        "button_text": "explore our menu"
+      },
+      "banner_2": {
+        "title": "discover our seasonal delights",
+        "description": "indulge in our seasonal menu featuring fresh ingredients and innovative dishes. at everlean, we celebrate each season with a unique culinary experience that reflects the best flavors of the time.",
+        "button_text": "view seasonal menu"
+      },
+      "banner_3": {
+        "title": "private dining and events",
+        "description": "plan your next event at everlean with our private dining options. whether it's an intimate gathering or a grand celebration, our dedicated team ensures every detail is perfect, from menu planning to ambiance.",
+        "button_text": "book your event"
+      },
+      "banner_4": {
+        "title": "culinary masterclasses",
+        "description": "embark on a journey of culinary discovery with our masterclasses at everlean. learn from our expert chefs as they share their techniques and secrets, ensuring you can recreate the magic of our dishes at home.",
+        "button_text": "explore masterclasses"
+      },
+      "banner_5": {
+        "title": "artisanal bakery",
+        "description": "delight in freshly baked artisanal goods at everlean. from crusty breads to decadent pastries, our bakery offers a range of treats crafted with passion and expertise, perfect for any time of day.",
+        "button_text": "explore bakery treats"
+      }
+    }
+  }
+}

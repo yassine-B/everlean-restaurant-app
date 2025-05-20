@@ -1,0 +1,23 @@
+{
+  "services": {
+    "services_title": "nos services",
+    "service_1": {
+      "title": "Restauration Fine",
+      "button_text": "voir le menu",
+      "image_description": "image du service_1",
+      "description": "Plongez dans l'excellence culinaire avec nos plats soigneusement préparés et une ambiance élégante. Découvrez une expérience de restauration fine à Everlean qui va au-delà du simple repas ; c'est une symphonie de saveurs, de textures et d'arômes."
+    },
+    "service_2": {
+      "title": "Services de Traiteur",
+      "button_text": "enquérir maintenant",
+      "image_description": "image du service_3",
+      "description": "Laissez-nous apporter les saveurs d'Everlean à vos événements spéciaux, des réunions intimes aux grandes célébrations. Nos services de traiteur offrent une excellence culinaire, que ce soit pour un mariage, un événement d'entreprise ou une fête privée."
+    },
+    "service_3": {
+      "title": "Événements Privés",
+      "button_text": "réservez votre événement",
+      "image_description": "image du service_3",
+      "description": "Organisez des moments inoubliables dans nos espaces événementiels polyvalents, adaptés à vos besoins. À Everlean, chaque événement bénéficie d'une touche de magie culinaire, que ce soit pour un dîner de répétition, une fête d'anniversaire ou une réunion d'entreprise."
+    }
+  }
+}

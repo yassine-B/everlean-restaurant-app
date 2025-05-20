@@ -1,0 +1,26 @@
+{
+  "footer": {
+    "footer_about": {
+      "title": "à propos de nous",
+      "description": "everlean est un havre culinaire dédié à offrir des expériences gastronomiques exceptionnelles. Nous nous efforçons de créer des moments inoubliables pour chaque invité."
+    },
+    "services_links": {
+      "title": "nos services",
+      "service_1": "Restauration Fine",
+      "service_2": "Services de Traiteur",
+      "service_3": "Événements Privés",
+      "service_4": "Réservations en Ligne"
+    },
+    "quick_links": {
+      "title": "liens rapides",
+      "quick_link_1": "conditions générales",
+      "quick_link_2": "politique de confidentialité",
+      "quick_link_3": "nous contacter"
+    },
+    "main_office": {
+      "title": "Bureau Principal",
+      "address": "Ma Société, 24 Avenue Des Champs Elysées, 75000 Paris, France"
+    },
+    "copyright": "restaurant everlean tous droits réservés"
+  }
+}

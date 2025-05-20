@@ -1,0 +1,20 @@
+{
+  "feedback": {
+    "feedback_title": "Voici ce que nos clients satisfaits disent de leurs expériences culinaires chez Everlean.",
+    "feedback_1": {
+      "username": "Sarah M",
+      "image_description": "image du feedback_1",
+      "description": "Une expérience culinaire inoubliable! La nourriture était exceptionnelle, le service impeccable, et l'atmosphère charmante. J'ai hâte de revenir!"
+    },
+    "feedback_2": {
+      "username": "John D",
+      "image_description": "image du feedback_2",
+      "description": "Nous avons récemment organisé un événement privé chez Everlean, et c'était fantastique! Le personnel a fait des efforts pour que tout soit parfait, et la nourriture était absolument délicieuse. Hautement recommandé!"
+    },
+    "feedback_3": {
+      "username": "Emily T",
+      "image_description": "image du feedback_3",
+      "description": "De loin le meilleur service traiteur en ville! Everlean a rendu notre événement vraiment mémorable avec leurs plats délicieux et un service professionnel. Merci!"
+    }
+  }
+}

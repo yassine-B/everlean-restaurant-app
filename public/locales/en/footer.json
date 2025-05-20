@@ -1,0 +1,26 @@
+{
+  "footer": {
+    "footer_about": {
+      "title": "about Us",
+      "description": "everlean is a culinary haven dedicated to providing exceptional dining experiences. we strive to create unforgettable moments for every guest."
+    },
+    "services_links": {
+      "title": "our services",
+      "service_1": "Fine Dining",
+      "service_2": "Catering Services",
+      "service_3": "Private Events",
+      "service_4": "Online Reservations"
+    },
+    "quick_links": {
+      "title": "quick links",
+      "quick_link_1": "terms & condition",
+      "quick_link_2": "privacy policy",
+      "quick_link_3": "contact us"
+    },
+    "main_office": {
+      "title": "Main Office",
+      "address": "My Company,24 Avenue Des Champs Elysee's 750000 Paris France"
+    },
+    "copyright": "everlean restaurant all right reserved"
+  }
+}

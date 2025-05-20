@@ -1,0 +1,23 @@
+{
+  "services": {
+    "services_title": "our services",
+    "service_1": {
+      "title": "Fine Dining",
+      "button_text": "view menu",
+      "image_description": "service_1 image",
+      "description": "Immerse yourself in culinary excellence with our carefully crafted dishes and elegant ambiance. Experience fine dining at Everlean that goes beyond just a meal; it's a symphony of flavors, textures, and aromas."
+    },
+    "service_2": {
+      "title": "Catering Services",
+      "button_text": "inquire now",
+      "image_description": "service_3 image",
+      "description": "Let us bring the flavors of Everlean to your special events, from intimate gatherings to grand celebrations. Our catering services deliver culinary excellence, whether it's a wedding, corporate event, or private party."
+    },
+    "service_3": {
+      "title": "Private Events",
+      "button_text": "book your event",
+      "image_description": "service_3 image",
+      "description": "Host unforgettable moments in our versatile event spaces, tailored to your needs. At Everlean, every event receives a touch of culinary magic, be it a rehearsal dinner, birthday party, or corporate gathering."
+    }
+  }
+}

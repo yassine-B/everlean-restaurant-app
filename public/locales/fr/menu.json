@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "menu_title": "notre menu",
+    "menu_list": {
+      "menu_1": {
+        "title": "entrées",
+        "image_description": "description de l'image du menu_1"
+      },
+      "menu_2": {
+        "title": "salades et soupes",
+        "image_description": "description de l'image du menu_2"
+      },
+      "menu_3": {
+        "title": "plats principaux",
+        "image_description": "description de l'image du menu_3"
+      },
+      "menu_4": {
+        "title": "pâtes et risotto",
+        "image_description": "description de l'image du menu_4"
+      },
+      "menu_5": {
+        "title": "spécialités de fruits de mer",
+        "image_description": "description de l'image du menu_5"
+      },
+      "menu_6": {
+        "title": "desserts",
+        "image_description": "description de l'image du menu_6"
+      }
+    }
+  }
+}

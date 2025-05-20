@@ -1,0 +1,20 @@
+{
+  "chefs": {
+    "chefs_title": "our chefs",
+    "chef_1": {
+      "image_description": "chef_1 image",
+      "title": "Executive Chef - Michael Smith",
+      "description": "Chef Michael Smith leads our kitchen with passion and creativity. After honing his skills globally, he brings unique flavors and techniques to every dish at Everlean."
+    },
+    "chef_2": {
+      "image_description": "chef_2 image",
+      "title": "Sous Chef - Emily Rodriguez",
+      "description": "Chef Emily Rodriguez brings a fresh perspective to our kitchen, infusing her dishes with a vibrant blend of flavors and textures. She has a background in culinary arts and pastry."
+    },
+    "chef_3": {
+      "image_description": "chef_3 image",
+      "title": "Pastry Chef - David Lee",
+      "description": "Meet our master of sweetness, Pastry Chef David Lee. With a flair for creativity and a passion for perfection, he crafts desserts that are as indulgent as unforgettable."
+    }
+  }
+}

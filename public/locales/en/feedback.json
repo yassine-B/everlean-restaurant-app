@@ -1,0 +1,20 @@
+{
+  "feedback": {
+    "feedback_title": "Here's What Our Satisfied Customers Have To Say About Their Dining Experiences At Everlean.",
+    "feedback_1": {
+      "username": "Sarah M",
+      "image_description": "feedback_1 image",
+      "description": "An unforgettable dining experience! The food was exceptional, the service was impeccable, and the atmosphere was delightful. Can't wait to visit again!"
+    },
+    "feedback_2": {
+      "username": "John D",
+      "image_description": "feedback_2 image",
+      "description": "We recently hosted a private event at Everlean, and it was fantastic! The staff went above and beyond to ensure everything was perfect, and the food was absolutely delicious. Highly recommend!"
+    },
+    "feedback_3": {
+      "username": "Emily T",
+      "image_description": "feedback_3 image",
+      "description": "Hands down, the best catering service in town! Everlean made our event truly memorable with their delectable dishes and professional service. Thank you!"
+    }
+  }
+}

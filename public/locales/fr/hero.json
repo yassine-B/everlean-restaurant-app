@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "banners": {
+      "banner_1": {
+        "title": "bienvenue au restaurant everlean",
+        "description": "découvrez une expérience culinaire exceptionnelle à everlean. notre restaurant vous offre un voyage culinaire unique. de notre menu méticuleusement élaboré à notre atmosphère chaleureuse et accueillante, chaque détail est conçu pour sublimer votre expérience culinaire.",
+        "button_text": "voir notre menu"
+      },
+      "banner_2": {
+        "title": "découvrez nos délices saisonniers",
+        "description": "dégustez notre menu saisonnier mettant en avant des ingrédients frais et des plats innovants. chez everlean, nous célébrons chaque saison avec une expérience culinaire unique qui reflète les meilleures saveurs du moment.",
+        "button_text": "voir le menu saisonnier"
+      },
+      "banner_3": {
+        "title": "dîners privés et événements",
+        "description": "organisez votre prochain événement chez everlean avec nos options de dîner privé. que ce soit pour une réunion intime ou une grande célébration, notre équipe dédiée veille à ce que chaque détail soit parfait, de la planification du menu à l'ambiance.",
+        "button_text": "réservez votre événement"
+      },
+      "banner_4": {
+        "title": "cours de cuisine",
+        "description": "partez à la découverte de la cuisine avec nos cours de cuisine à everlean. apprenez des techniques et secrets de nos chefs experts, vous assurant de pouvoir recréer la magie de nos plats chez vous.",
+        "button_text": "explorer les cours de cuisine"
+      },
+      "banner_5": {
+        "title": "boulangerie artisanale",
+        "description": "dégustez des produits artisanaux fraîchement préparés chez everlean. des pains croustillants aux pâtisseries décadentes, notre boulangerie propose une gamme de délices confectionnés avec passion et expertise, parfaits à tout moment de la journée.",
+        "button_text": "explorer nos délices de boulangerie"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "menu": {
+    "menu_title": " our menu",
+    "menu_list": {
+      "menu_1": {
+        "title": " appetizers",
+        "image_description": " menu_image_1 description"
+      },
+      "menu_2": {
+        "title": " Salads & Soups",
+        "image_description": " menu_image_2 description"
+      },
+      "menu_3": {
+        "title": " entrees",
+        "image_description": " menu_image_3 description"
+      },
+      "menu_4": {
+        "title": " Pasta & Risotto",
+        "image_description": " menu_image_4 description"
+      },
+      "menu_5": {
+        "title": " Seafood Specialties",
+        "image_description": " menu_image_5 description"
+      },
+      "menu_6": {
+        "title": " Desserts",
+        "image_description": " menu_image_6 description"
+      }
+    }
+  }
+}

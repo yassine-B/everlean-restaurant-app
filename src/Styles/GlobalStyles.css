@@ -1,0 +1,132 @@
+:root {
+  --primary-color: #f59e0b;
+  --primary-text: #1f2937;
+  --background-color: #f3f4f6;
+  --card-background-color: #ffffff;
+
+  --scrollbar-track: #f59e0b;
+  --scrollbar-thumb: #1f2937;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('../../public/Fonts/Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../../public/Fonts/Roboto-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../../public/Fonts/OpenSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../../public/Fonts/OpenSans-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+/* tailwind custom className styles start */
+.transition-item {
+  @apply transition-all ease-in duration-200;
+}
+
+.grid-three-columns {
+  @apply grid gap-5 place-items-center grid-cols-1 sm:grid-cols-2 lg:grid-cols-3;
+}
+.grid-four-columns {
+  @apply grid gap-4 place-items-center  grid-cols-2 md:grid-cols-4 lg:grid-cols-4;
+}
+.hero-bg-image {
+  background: url('../../public/assets/images/hero-1.jpg');
+  @apply bg-cover bg-no-repeat bg-center object-cover;
+  width: 100%;
+}
+
+.feedback-bg-image {
+  background: url('../../public/assets/images/feedback-1.jpg');
+  @apply bg-cover bg-no-repeat bg-top object-cover;
+  height: 400px;
+}
+.card {
+  /*bg-gray-100 bg-gradient-to-b  dark:from-black dark:to-gray-700  */
+  @apply border-2 cursor-pointer flex flex-col items-center gap-2 h-full p-2 rounded shadow-xl transform duration-200  hover:scale-95;
+  background-color: var(--card-background-color);
+}
+/* tailwind custom className styles end */
+html {
+  background-color: var(--background-color);
+  transition: background-color 150ms ease;
+}
+.dark {
+  --primary-color: #f59e0b;
+  --primary-text: #f3f4f6;
+  --background-color: #20262e;
+  --card-background-color: #374151;
+}
+p,
+h1 {
+  transition: color 150ms ease;
+}
+
+/* scrollbar styles */
+
+/* WebKit (Chrome, Safari) */
+body::-webkit-scrollbar,
+.scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+body::-webkit-scrollbar-track,
+.scrollbar::-webkit-scrollbar-track {
+  background: var(--scrollbar-track);
+}
+body::-webkit-scrollbar-thumb,
+.scrollbar::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 4px;
+  /* rounded corners for the thumb */
+}
+
+/* change the color of the thumb on hover */
+body::-webkit-scrollbar-thumb:hover,
+.scrollbar::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb);
+  opacity: 0.8;
+}
+
+/* change the color of the thumb when dragging */
+body::-webkit-scrollbar-thumb:active,
+.scrollbar::-webkit-scrollbar-thumb:active {
+  background: var(--scrollbar-thumb);
+}
+
+body::-moz-scrollbar-thumb,
+.scrollbar::-moz-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+}
+
+/* change the color of the thumb on hover in Firefox */
+body::-moz-scrollbar-thumb:hover,
+.scrollbar::-moz-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb);
+  opacity: 0.8;
+}
+
+/* change the color of the thumb when dragging in Firefox */
+body::-moz-scrollbar-thumb:active,
+.scrollbar::-moz-scrollbar-thumb:active {
+  background: var(--scrollbar-thumb);
+}

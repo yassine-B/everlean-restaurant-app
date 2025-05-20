@@ -1,0 +1,13 @@
+{
+  "about": {
+    "about_title": "à propos de nous",
+    "about_button": "en savoir plus sur nous",
+    "about_alert": "êtes-vous prêt à passer au niveau suivant",
+    "about_alert_button": "explorez notre menu",
+    "about_description": {
+      "part_1": "découvrez l'histoire derrière everlean, où la passion pour la nourriture rencontre l'hospitalité. fondé en 2021, everlean est une destination culinaire aimée à paris depuis 3 ans. notre aventure a commencé avec une simple vision : créer une expérience culinaire qui ravit les sens et favorise les connexions. ce qui a commencé comme une humble entreprise est devenu un symbole d'excellence culinaire, où chaque plat est préparé avec soin et chaque invité est traité comme famille.",
+
+      "part_2": "rejoignez-nous dans un voyage culinaire où chaque bouchée raconte une histoire et chaque moment est savouré. bienvenue chez everlean, où chaque repas est une célébration de la nourriture, de la famille et de la communauté."
+    }
+  }
+}
